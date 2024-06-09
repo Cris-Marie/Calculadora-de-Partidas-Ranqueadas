@@ -1,6 +1,6 @@
 # Desafio Calculadora de Partidas Ranqueadas
 
-Projeto realizado para o desafio Calculadora de Partidas Ranqueadas do curso Operadores e Estruturas de Controle para Jogos no BootCamp Santader: Criando Jogos com Godot da [DIO](https://www.dio.me/).
+Projeto realizado para o desafio Calculadora de Partidas Ranqueadas do curso Operadores e Estruturas de Controle para Jogos no BootCamp Santander: Criando Jogos com Godot da [DIO](https://www.dio.me/).
 
 ## Detalhes do Desafio
 
